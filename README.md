@@ -2,4 +2,4 @@
 
 ## Languages
 
-[Python](/python.md) 
+[Python](/python.md)  
