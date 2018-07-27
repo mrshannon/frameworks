@@ -1,4 +1,4 @@
-# Useful Frameworks and API's
+# Useful Libraries, API's and Frameworks
 
 ## Languages
 
